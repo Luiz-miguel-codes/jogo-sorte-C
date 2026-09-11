@@ -1,6 +1,3 @@
-# jogo-sorte-C
-jogo da sorte desenvolvido por mim (Luiz Miguel)
-
 # Jogo da Sorte (C++)
 
 Jogo de adivinhação de número em C++, com sistema de dificuldade, vidas, pontos, moedas e recorde de tentativas.
